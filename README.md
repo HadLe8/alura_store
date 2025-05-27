@@ -1,5 +1,5 @@
 # Alura_store
-### Propósito del análisis realizado
+### Propósito del análisis realizado.
 El propósito del proyecto es generar un análisis de datos con Python, en el que de acuerdo a la información proporcionada de 4 bases de datos, se obtendrá una evaluación para la toma de decisiones.
  
 ### La estructura del proyecto y organización de los archivos.
